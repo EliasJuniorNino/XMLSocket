@@ -1,0 +1,14 @@
+C:\Users\Elias\Desktop\XMLSocket\XMLSocket\bin\Debug\XMLSocket.dll
+C:\Users\Elias\Desktop\XMLSocket\XMLSocket\bin\Debug\XMLSocket.pdb
+C:\Users\Elias\Desktop\XMLSocket\XMLSocket\obj\Debug\XMLSocket.dll
+C:\Users\Elias\Desktop\XMLSocket\XMLSocket\obj\Debug\XMLSocket.pdb
+C:\Users\Elias\OneDrive\C#\XMLSocket\XMLSocket\bin\Debug\XMLSocket.dll
+C:\Users\Elias\OneDrive\C#\XMLSocket\XMLSocket\bin\Debug\XMLSocket.pdb
+C:\Users\Elias\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.csprojResolveAssemblyReference.cache
+C:\Users\Elias\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.dll
+C:\Users\Elias\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.pdb
+C:\Users\Elias Junior\OneDrive\C#\XMLSocket\XMLSocket\bin\Debug\XMLSocket.dll
+C:\Users\Elias Junior\OneDrive\C#\XMLSocket\XMLSocket\bin\Debug\XMLSocket.pdb
+C:\Users\Elias Junior\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.csprojResolveAssemblyReference.cache
+C:\Users\Elias Junior\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.dll
+C:\Users\Elias Junior\OneDrive\C#\XMLSocket\XMLSocket\obj\Debug\XMLSocket.pdb
