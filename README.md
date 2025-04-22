@@ -1,6 +1,7 @@
 # XMLSocket
 
-**XMLSocket** é uma biblioteca simples em C# para comunicação entre cliente e servidor usando sockets TCP/IP. Permite o envio e recebimento de mensagens em formato texto (como XML) de forma fácil, com suporte a eventos e logging.
+**XMLSocket** é uma implementação simples em C# de comunicação entre cliente e servidor via sockets TCP/IP. Ideal para projetos que precisam trocar mensagens em texto (como XML) de forma prática, com suporte a eventos e logging.  
+Essa implementação pode ser reutilizada ou adaptada conforme a necessidade do seu projeto.
 
 ## ✨ Funcionalidades
 
